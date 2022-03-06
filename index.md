@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## 백서윤 이력서
 
-You can use the [editor on GitHub](https://github.com/cycyewha054/cycyewha054-github-id/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 반갑습니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+이화여대 수리물리과학부 통계학과
 ```markdown
 Syntax highlighted code block
 
